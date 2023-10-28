@@ -1,2 +1,3 @@
-# 0x09-web_infrastructure_design
-Web Infrastructure Design
+# Web Infrastructure Design
+
+Understanding the concept and functionalities of web infrastructure design
